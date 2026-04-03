@@ -25,3 +25,7 @@ archive/
 
 test_cases
 e-commerce
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
